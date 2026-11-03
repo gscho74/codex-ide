@@ -1,0 +1,12 @@
+*.elc
+*.eln
+*.pyc
+__pycache__/
+*.so
+*.tar.gz
+.zig-cache/
+.env
+.env.*
+.claude/
+.codex/
+*~

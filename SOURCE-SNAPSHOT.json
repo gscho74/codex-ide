@@ -1,0 +1,29 @@
+{
+  "captured_date": "2026-11-03",
+  "policy": "The four runtime source files are byte-for-byte copies of the active local source files; no refactor or code edits.",
+  "files": {
+    "codex-ide.el": {
+      "sha256": "d3ffdf85336f7d6664e3af7c6b4b2f1efbff9c659765b76a905faad381c1f3a0",
+      "bytes": 53887
+    },
+    "codex-ide-terminal.el": {
+      "sha256": "c01b60214e857ff1255251aa7e6b69dff7359dc1391c2661db5bf962b85fe810",
+      "bytes": 48837
+    },
+    "codex-ide-mcp.py": {
+      "sha256": "3589e35da97396a2f0bd9db4756f26844469be746814f6f6d39e9ebb0f3db262",
+      "bytes": 3453
+    },
+    "codex-ide-picker.py": {
+      "sha256": "e1871d4f1d3eb246da264c8d692732bd324386e375d0ac9405bd8ce67f6f842a",
+      "bytes": 9927
+    }
+  },
+  "config_excerpt": "Unmodified contiguous excerpt from the active init.el: korean-hangul input setup through codex-ide managed startup end.",
+  "observed_versions": {
+    "emacs": "30.2",
+    "codex_cli": "0.166.0",
+    "ghostel_package": "20261027.833",
+    "ghostel_module": "0.59.0"
+  }
+}
